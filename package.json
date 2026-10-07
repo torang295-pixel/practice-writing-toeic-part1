@@ -1,0 +1,19 @@
+{
+  "name": "practice_toeic_writing_part1",
+  "version": "1.0.0",
+  "description": "Windows Desktop app for practicing TOEIC Writing Part 1 with local/OpenAI-compatible AI grading",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/ui.test.cjs"
+  },
+  "keywords": [
+    "toeic",
+    "toeic-writing",
+    "webview2",
+    "dotnet",
+    "winforms",
+    "csharp"
+  ],
+  "author": "my toeic",
+  "license": "MIT"
+}

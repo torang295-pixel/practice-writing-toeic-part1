@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/desktop.tests/">
+    <Project Path="desktop.tests/SentenceLab.Desktop.Tests.csproj" />
+  </Folder>
+  <Folder Name="/desktop/">
+    <Project Path="desktop/SentenceLab.Desktop.csproj" />
+  </Folder>
+</Solution>
